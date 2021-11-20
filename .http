@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+    "Name":"T Rohit Bharadwaj",
+    "Registration_number":"201900197",
+    "Marks":"45"
+}
